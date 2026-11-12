@@ -2,7 +2,7 @@
 
 I want a project to remain understandable as it grows. Someone should be able to open the repository, see what it is for, understand how its parts relate, and continue the work without reconstructing months of conversations. That applies to people and to the agents working with them.
 
-Ground Zero is a development system and constitutional framework for AI-governed software. It joins intent, ownership, source, decisions, evidence and delivery in the repository itself. The point is to make larger work possible over time: preserve the purpose, build coherent parts, find mistakes, and carry what was learned into the next action.
+Ground Zero is a development system and constitutional framework for AI-governed software. It joins intent, ownership, source, decisions, evidence and delivery as an interconnected system to facilitate more ambitious work over time: preserving purpose, building coherent systems, finding mistakes, and carrying what was learned from the process into the human and computer's next actions.
 
 The [Bill of Standards](constitutional/BILL_OF_STANDARDS.md) states the promises. The [Constitution](constitutional/CONSTITUTION.md) defines their authority, adoption and amendment, including the feedback loop through which development data changes subsequent work. The [mechanism map](constitutional/MECHANISMS.md) connects those promises to actual tools, responsibilities and independent engine implementations.
 
