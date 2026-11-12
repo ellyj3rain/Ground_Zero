@@ -1,0 +1,14 @@
+{
+  "name": "ground-zero",
+  "private": true,
+  "description": "Ground Zero development system and constitutional framework for AI-governed software",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node scripts/check.mjs && node scripts/policy-source.mjs --check",
+    "test": "node --test test/*.test.mjs"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+build/
+coverage/
+.cache/
+.env
+.env.*
+*.log
+*.tmp
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
