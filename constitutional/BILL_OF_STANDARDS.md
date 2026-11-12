@@ -132,7 +132,11 @@ Granular, Emmetropic and Beacon express contextual development postures: smaller
 
 ### Standard 15: Attribution and participant identity
 
-Attribute the responsible participant, source contribution and relevant tools or models honestly. Identity, role, model, host and execution arrangement retain their separate meanings. Keep useful provenance without impersonating a person or treating generated commentary as their original judgment. Use project-approved public attribution and keep personal or account details within their proper disclosure boundary.
+Public development records center the responsible human, source contribution and developed system. Commits, pull requests, releases and project-facing attribution do not add AI-provider co-author trailers, generated-by footers, imposed model or vendor labels, or promotional boilerplate.
+
+Name a provider or tool where it serves an actual technical purpose, such as an API adapter, compatibility requirement or interpretation of evidence. Preserve required third-party notices. Retain detailed tool and model provenance in the appropriate operational or evidence record rather than using it as routine authorship decoration.
+
+Identity, role, model, host and execution arrangement retain their separate meanings. Attribute the actual contribution honestly, without impersonating a person or presenting generated commentary as their original judgment. Keep personal and account details within their proper disclosure boundary.
 
 ### Standard 16: Tool and runtime boundaries
 

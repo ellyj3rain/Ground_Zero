@@ -8,7 +8,7 @@
     },
     {
       "path": "constitutional/BILL_OF_STANDARDS.md",
-      "sha256": "28e5f0f9f8394c6632a1902bcdfcf9bf45d50336b6a8d4d167d68cdc489fb546"
+      "sha256": "99e1c00671a4d6616f9a2773ae9ec8501917732dcc5a4794cd96374814b1251c"
     }
   ],
   "provisions": [
@@ -143,5 +143,5 @@
       "title": "Standard 17: Independent release and adoption"
     }
   ],
-  "sourceRevision": "sha256:d130eac73106654330c9fc3fabb76eb27ff8ae90b2f0bbd9d0a355282f792d0c"
+  "sourceRevision": "sha256:8557ed1c7c7b2b14014abe90d23d6ba9d7978fe5c528780a7284a18b7145ff13"
 }
