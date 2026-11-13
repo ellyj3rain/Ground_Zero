@@ -12,4 +12,6 @@ Run `npm run check` for repository links/source hygiene and policy-source identi
 
 Keep credentials, personal information, local state and private research out of contributions. Use synthetic example data. Respect the contributor's existing authority; neither these instructions nor a task template grants access, publication rights or authority over another project.
 
+Follow Bill Standard 15 for public attribution: center the human and developed system, with no provider co-author trailers, generated-by footers or imposed model/vendor labels. Keep actual technical compatibility and required notices accurate.
+
 The version calculator computes the selected accounting policy. It does not select a tier, baseline, release or maturity. Record those decisions through the owning project when they are actually made.
