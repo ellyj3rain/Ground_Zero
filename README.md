@@ -32,7 +32,7 @@ The relationships do the work. A decision explains a constraint in the implement
 
 These connections reduce the amount that has to be rediscovered after an interruption. They also make a contradiction visible: the architecture can say one thing while a loader, build or running application does another. The response is to correct the responsible source and receiving path, then update the account.
 
-The repository contains the developed constitutional core, methods, templates and portable checks. Ground Zero and Illuci are separate projects: Ground Zero supplies the framework under MIT; Illuci supplies an independently developed engine under GPLv3. The framework shaped the engine, and engine development produced evidence and mechanisms that refine the framework. Their source, contributions, versions and releases remain independent.
+The repository contains the developed constitutional core, methods, templates and portable checks. Ground Zero and [Illuci](https://github.com/ellyj3rain/Illuci) are separate projects: Ground Zero supplies the framework under MIT; Illuci supplies an independently developed engine under GPLv3. The framework shaped the engine, and engine development produced evidence and mechanisms that refine the framework. Their source, contributions, versions and releases remain independent.
 
 Using Ground Zero does not require an engine, model subscription or access to the original development environment. An engine can adopt the exact public policy source through its own declared contract. The examples are explicitly illustrative. The historical lessons explain particular observed failures; they are not a benchmark or a claim that a prescribed amount of process makes every project faster.
 
